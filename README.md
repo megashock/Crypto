@@ -14,6 +14,6 @@ Crypto_Currency_Elective (Cryptographic Primitives):<br />
 
 Mining and Wallets:<br />
 * miner.py: creates blockchain and mines for new blocks<br />
-* GenerateAddr.py: generates address for new public key or an inputted one (Update: And a ton of extra features)<br />
+* GenerateAddr.py: generates address for new public key or an inputted one (Update: and a ton of extra features)<br />
 * jsonMaker.py: refactored for use as library<br />
 * MakeMerkleTree.py: refactored for use as library<br />
