@@ -17,3 +17,8 @@ Mining and Wallets:<br />
 * GenerateAddr.py: generates address for new public key or an inputted one (Update: and a ton of extra features)<br />
 * jsonMaker.py: refactored for use as library<br />
 * MakeMerkleTree.py: refactored for use as library<br />
+
+Ethereum and Smart Contracts:<br />
+* Rockpapsci.sol: original rock paper scissors, takes your choice, and emits result<br />
+* Weightedrps.sol: weighted so that higher transfers have higher chances of winning<br />
+* contract.js: js file which runs Rockpapsci.sol in truffle<br />
